@@ -4,6 +4,10 @@ Archive of datasets and source codes produced by Fabiola S. F. Pereira under her
 Pereira, F. S. F. User Preference Dynamics on Evolving Social Networks - Learning, Modeling and Prediction. PhD Thesis. 2018.
 
 #### Datasets
+- Celebrities Follow/Unfollow Network:
+- News Retweets Network (short):
+- News Retweets Network (large):
+- This Is My Jam Network:
 
 #### Projects
 - Temporal centrality plugin: https://github.com/fabsfernandes/temporal-centrality
